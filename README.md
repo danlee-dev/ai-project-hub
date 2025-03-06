@@ -1,4 +1,4 @@
-# 🤖 AI Implementation Hub
+# AI Implementation Hub
 
 Welcome to the **AI Implementation Hub**! This repository serves as an index for various AI projects.
 
