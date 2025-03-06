@@ -5,7 +5,7 @@ Welcome to the **AI Implementation Hub**! This repository serves as an index for
 ## Projects
 | Project Name | Description | Repository Link |
 |-------------|------------|----------------|
-| Recommendation AI | Book recommendation using document vectors | [Go to repo](https://github.com/masonl2ee/recommendation-ai) |
+| Recommendation AI | Book recommendation using document vectors | [Go to repo](https://github.com/masonl2ee/document-vector-recommender.git) |
 
 ## Setup Guide
 Each project has its own installation guide. Click on the links above to navigate to the specific repositories.
