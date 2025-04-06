@@ -14,6 +14,7 @@ This repository serves as a centralized index for various AI-powered projects I'
 | AI-Design-Builder | No-code UI builder powered by AI, allowing drag & drop interface creation with real-time GPT interaction | [Go to repo](https://github.com/masonl2ee/ai-design-builder.git) |
 | AI-MCP-Generator | Natural language automation using modular code plugins (MCPs) | [Go to repo](https://github.com/masonl2ee/ai-mcp-generator) |
 | AI-Smart-Education-Platform | Fine-tuned AI platform for personalized learning, professor-style quiz generation, handwriting analysis, and concept-based feedback | [Go to repo](https://github.com/masonl2ee/ai-smart-education-platform.git) |
+| AI-Sports-News-Recommender | AI-powered news platform that recommends sports team and player content based on user interest | [Go to repo](https://github.com/masonl2ee/ai-sports-news-recommender.git) |
 
 ---
 
