@@ -13,8 +13,11 @@ This repository serves as a centralized index for various AI-powered projects I'
 | AI-Portfolio-Generator | Generate AI-powered resume & portfolio from simple text input | [Go to repo](https://github.com/masonl2ee/ai-portfolio-generator.git) |
 | AI-Design-Builder | No-code UI builder powered by AI, allowing drag & drop interface creation with real-time GPT interaction | [Go to repo](https://github.com/masonl2ee/ai-design-builder.git) |
 | AI-MCP-Generator | Natural language automation using modular code plugins (MCPs) | [Go to repo](https://github.com/masonl2ee/ai-mcp-generator) |
-| AI-Smart-Education-Platform | Fine-tuned AI platform for personalized learning, professor-style quiz generation, handwriting analysis, and concept-based feedback | [Go to repo](https://github.com/masonl2ee/ai-smart-education-platform.git) |
-| AI-Sports-News-Recommender | AI-powered news platform that recommends sports team and player content based on user interest | [Go to repo](https://github.com/masonl2ee/ai-sports-news-recommender.git) |
+
+### Team Project
+| Project Name | Description | Repository Link |
+|--------------|-------------|-----------------|
+| AI-TaskPilot | Multi-agent AI platform that interprets user requests, coordinates models using RAG & LangChain, and delivers coherent results through collaborative AI communication. | [Go to repo](https://github.com/danlee-dev/ai-task-pilot.git) |
 
 ---
 
