@@ -17,7 +17,7 @@ This repository serves as a centralized index for various AI-powered projects I'
 ### Team Project
 | Project Name | Description | Repository Link |
 |--------------|-------------|-----------------|
-| AI-TaskPilot | Multi-agent AI platform that interprets user requests, coordinates models using RAG & LangChain, and delivers coherent results through collaborative AI communication. | [Go to repo](https://github.com/danlee-dev/ai-task-pilot.git) |
+| AI-TaskPilot | Multi-agent AI platform using RAG and LangChain to interpret tasks and deliver results through model collaboration. | [Go to repo](https://github.com/danlee-dev/ai-task-pilot.git) |
 
 ---
 
