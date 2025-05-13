@@ -5,7 +5,20 @@ This repository serves as a centralized index for various AI-powered projects I'
 
 ---
 
-## Projects
+## Featured Team Project: AI-TaskPilot
+
+**AI-TaskPilot** is a cutting-edge, multi-agent AI platform that uses RAG and LangChain to interpret user tasks and orchestrate collaborative execution among models.
+
+- **RAG-based Task Understanding**  
+- **Multi-Agent Orchestration**  
+- ⚙**Tool Integration & Workflow Automation**  
+- Developed collaboratively with a talented team
+
+[Go to AI-TaskPilot repo](https://github.com/danlee-dev/ai-task-pilot.git)
+
+---
+
+## 🛠️ Personal Projects
 
 | Project Name | Description | Repository Link |
 |--------------|-------------|-----------------|
@@ -13,11 +26,6 @@ This repository serves as a centralized index for various AI-powered projects I'
 | AI-Portfolio-Generator | Generate AI-powered resume & portfolio from simple text input | [Go to repo](https://github.com/masonl2ee/ai-portfolio-generator.git) |
 | AI-Design-Builder | No-code UI builder powered by AI, allowing drag & drop interface creation with real-time GPT interaction | [Go to repo](https://github.com/masonl2ee/ai-design-builder.git) |
 | AI-MCP-Generator | Natural language automation using modular code plugins (MCPs) | [Go to repo](https://github.com/masonl2ee/ai-mcp-generator) |
-
-### Team Project
-| Project Name | Description | Repository Link |
-|--------------|-------------|-----------------|
-| AI-TaskPilot | Multi-agent AI platform using RAG and LangChain to interpret tasks and deliver results through model collaboration. | [Go to repo](https://github.com/danlee-dev/ai-task-pilot.git) |
 
 ---
 
