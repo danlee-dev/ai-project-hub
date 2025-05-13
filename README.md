@@ -11,7 +11,7 @@ This repository serves as a centralized index for various AI-powered projects I'
 
 - **RAG-based Task Understanding**  
 - **Multi-Agent Orchestration**  
-- ⚙**Tool Integration & Workflow Automation**  
+- **Tool Integration & Workflow Automation**  
 - Developed collaboratively with a talented team
 
 [Go to AI-TaskPilot repo](https://github.com/danlee-dev/ai-task-pilot.git)
