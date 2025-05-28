@@ -18,7 +18,7 @@ This repository serves as a centralized index for various AI-powered projects I'
 
 ---
 
-## 🛠️ Personal Projects
+## Personal Projects
 
 | Project Name | Description | Repository Link |
 |--------------|-------------|-----------------|
