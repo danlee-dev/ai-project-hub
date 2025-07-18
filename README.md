@@ -23,7 +23,6 @@ This repository serves as a centralized index for various AI-powered projects I'
 | Project Name | Description | Repository Link |
 |--------------|-------------|-----------------|
 | Multi-Agent RAG System | Advanced RAG system with real-time feedback loops between specialized agents for enhanced information retrieval | [Go to repo](https://github.com/danlee-dev/multiagent-rag-system.git) |
-| AI-Design-Builder | No-code UI builder powered by AI, allowing drag & drop interface creation with real-time GPT interaction | [Go to repo](https://github.com/masonl2ee/ai-design-builder.git) |
 | AI-MCP-Generator | Natural language automation using modular code plugins (MCPs) | [Go to repo](https://github.com/masonl2ee/ai-mcp-generator) |
 | AI-Portfolio-Generator | Generate AI-powered resume & portfolio from simple text input | [Go to repo](https://github.com/masonl2ee/ai-portfolio-generator.git) |
 | Recommendation AI | Book recommendation using document vectors | [Go to repo](https://github.com/masonl2ee/document-vector-recommender.git) |
